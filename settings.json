@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "SoulKKJ2.aternos.me",
-    "port": 33436,
+    "port": 33436
     "version": "1.21.1"
   },
   "position": {
@@ -31,8 +31,8 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I hate you",
+        "you will pay for your sins"
       ]
     },
     "chat-log": true,
